@@ -1,0 +1,1 @@
+Open the project with a python IDE £¨such as pycharm£¬intellij£©£¬and create a operating environment for this project. This project is writen by py3 and flask framwork.
